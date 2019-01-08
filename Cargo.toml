@@ -5,5 +5,5 @@ authors = ["Francisco Viramontes <kidpollo@gmail.com>"]
 
 [dependencies]
 time = "0.1.12"
-regex = "0.1.41"
+regex = "1.1.0"
 simple-error = "0.1.13"
